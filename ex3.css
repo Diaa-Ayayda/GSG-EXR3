@@ -1,0 +1,202 @@
+*{
+    padding:0;
+    margin:0;
+    background-color: gainsboro;
+}
+
+div.header-sec{
+    background-color: rgb(23, 24, 24);
+    text-align: center;
+    margin: 0px 20px;
+    padding: 30px; 
+    margin-top: 20px;
+    box-sizing: border-box;
+    border-radius:3%;
+    
+}
+.About1:hover{color: yellow;
+
+}
+
+h1{color: white;
+    background-color: rgb(23, 24, 24);
+    align-items: center;
+    text-align: center;
+    
+}
+
+div.header-sec a{
+    text-decoration: none;
+    color: aliceblue;
+    margin:0 15px;
+  
+ background-color: rgb(23, 24, 24);
+}
+.p1{color:gray;
+    background-color: rgb(23, 24, 24);
+}
+
+.About_Me{
+    border: 2px;
+    background-color: white;
+    
+    padding: 0 10px;
+}
+div.About{
+    background-color: white;
+    padding: 10px; 
+    margin: 0px 20px;
+    margin-top: 20px;
+    border-radius:3%;
+}
+.p2{
+    background-color: white;
+    padding: 10px; 
+    margin: 0px 20px;
+    
+
+    
+}
+
+.picture1{ background-color: white;
+    width: 150px;
+    height: 150px;
+  border-radius: 50%;
+  margin-left: 40%;
+}
+
+div.picture{  background-color: white;
+    padding: 10px; 
+    margin: 0px 20px;
+  
+
+}
+
+
+.button1:hover{
+    transform: translateY(-10px);
+}
+.electrical-skills{
+    /*text-align: center;*/
+    background-image: url(download.jpg) ;
+   margin :  30px 0px 10px 10px ;
+  background-size:initial;
+    padding: 10px;
+  
+    border-radius:3%;
+  
+   
+    background-color: gray;
+    
+}
+.button1{
+    margin: 25px;
+    padding: 10px;
+    background-color: green;
+    border-radius: 5%;
+   
+}
+
+
+div.project_sec1{
+    margin: 30px;
+    padding: 15px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+div.Project1 h2{
+padding-bottom: 150px;
+background-color: aliceblue;
+}
+#h31{
+    background-color: red;
+}
+#p1{
+    background-color: red;
+}
+#proj1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    padding:15px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0px 0px 0px -20px;
+    position: absolute;
+    top: 270px;
+}
+
+#proj2{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    padding:15px;
+    border-radius: 10px;
+    text-align: center;
+    margin: -150px 0px 0px -10px;
+    position: absolute;
+   margin-bottom: 100;
+}
+#h32{
+    background-color: orange;
+}
+#p2{
+    background-color: orange;
+}
+
+/*#proj3{background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    padding:15px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0px 0px 0px -20px;
+    position: absolute;
+    margin-top: 250;
+
+}*/
+.footer{
+    margin-top: 100px ;
+    background-color: rgb(207, 204, 204);
+    border-radius: 10px;
+    padding:10px;
+}
+#fname{
+    width: 1300px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+#email{
+ 
+   width: 1300px;
+    background-color: aliceblue;
+    border-radius: 5px;
+
+}
+#message{
+    width: 1000px;
+    height: 200px;
+   /* padding: 100px 0px 0px 500px;*/
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+#Name{
+    background-color:rgb(207, 204, 204) ;
+}
+.submit{
+    border-radius: 5px;
+}
+.submit:hover{
+    background-color: green;
+}
+.contact-me{ border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.781);
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+}
+#cont:hover{
+    color: yellow;
+   
+}
